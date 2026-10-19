@@ -1,7 +1,7 @@
 # 基于 Freqtrade 的双周期现货趋势策略
 
 课程项目：使用现有开源运行平台，开发可运行的策略算法模块并进行回测验证。
-策略类为 **DualHorizonTrendV2**，接口为 Freqtrade V3；不自称开发了 Freqtrade 平台。
+策略类为 **DualHorizonTrendV2**，接口为 Freqtrade V3。
 
 ## 策略逻辑
 BTC/USDT与ETH/USDT，1小时K线，现货做多、无杠杆。
