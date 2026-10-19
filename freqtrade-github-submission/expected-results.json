@@ -1,0 +1,79 @@
+{
+  "user_data\\backtest_results\\v2-20240101-20260101\\backtest-result-2026-10-19_01-08-28.zip": {
+    "TrendBreakoutV1": {
+      "profit_pct": 18.172434321999997,
+      "wallet_drawdown_pct": 26.467134052515572,
+      "trades": 145
+    },
+    "DualHorizonTrendV2": {
+      "profit_pct": 87.27160618470002,
+      "wallet_drawdown_pct": 15.725455240842978,
+      "trades": 107
+    }
+  },
+  "user_data\\backtest_results\\v2-20250101-20250701\\backtest-result-2026-10-19_01-08-27.zip": {
+    "TrendBreakoutV1": {
+      "profit_pct": -7.863544524800002,
+      "wallet_drawdown_pct": 14.035531680638858,
+      "trades": 35
+    },
+    "DualHorizonTrendV2": {
+      "profit_pct": 14.550042813299996,
+      "wallet_drawdown_pct": 9.876817701125516,
+      "trades": 23
+    }
+  },
+  "user_data\\backtest_results\\v2-20250101-20260101\\backtest-result-2026-10-19_01-08-27.zip": {
+    "TrendBreakoutV1": {
+      "profit_pct": 9.177281315299998,
+      "wallet_drawdown_pct": 15.996921437379797,
+      "trades": 66
+    },
+    "DualHorizonTrendV2": {
+      "profit_pct": 24.0544015415,
+      "wallet_drawdown_pct": 15.725031520345672,
+      "trades": 51
+    }
+  },
+  "user_data\\backtest_results\\v2-20250701-20260101\\backtest-result-2026-10-19_01-08-27.zip": {
+    "TrendBreakoutV1": {
+      "profit_pct": 19.6448877862,
+      "wallet_drawdown_pct": 7.624059173006784,
+      "trades": 31
+    },
+    "DualHorizonTrendV2": {
+      "profit_pct": 8.320046595400003,
+      "wallet_drawdown_pct": 15.725253580321352,
+      "trades": 28
+    }
+  },
+  "user_data\\backtest_results\\v2-cost\\backtest-result-2026-10-19_01-08-56.zip": {
+    "DualHorizonTrendV2": {
+      "profit_pct": 68.7448285933,
+      "wallet_drawdown_pct": 16.890108367457554,
+      "trades": 107
+    }
+  },
+  "user_data\\backtest_results\\v2-selection2024\\backtest-result-2026-10-19_01-07-33.zip": {
+    "TrendBreakoutV1": {
+      "profit_pct": 8.237531819700001,
+      "wallet_drawdown_pct": 26.467134052515572,
+      "trades": 79
+    },
+    "RegimeMomentumV2": {
+      "profit_pct": 48.4383742278,
+      "wallet_drawdown_pct": 28.81041345795842,
+      "trades": 53
+    },
+    "ChandelierMomentumV2": {
+      "profit_pct": 33.261346015099996,
+      "wallet_drawdown_pct": 23.95941166846624,
+      "trades": 61
+    },
+    "DualHorizonTrendV2": {
+      "profit_pct": 50.96060766339999,
+      "wallet_drawdown_pct": 15.264995899606525,
+      "trades": 56
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "selected": "DualHorizonTrendV2",
+  "results": {
+    "TrendBreakoutV1": {
+      "profit": 0.082375318197,
+      "drawdown": 0.26467134052515573,
+      "trades": 79
+    },
+    "RegimeMomentumV2": {
+      "profit": 0.48438374227799996,
+      "drawdown": 0.28810413457958417,
+      "trades": 53
+    },
+    "ChandelierMomentumV2": {
+      "profit": 0.33261346015099996,
+      "drawdown": 0.23959411668466243,
+      "trades": 61
+    },
+    "DualHorizonTrendV2": {
+      "profit": 0.5096060766339999,
+      "drawdown": 0.15264995899606526,
+      "trades": 56
+    }
+  },
+  "risk_gate_passed": true
+}
